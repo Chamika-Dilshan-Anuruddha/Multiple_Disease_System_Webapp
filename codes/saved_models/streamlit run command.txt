@@ -1,0 +1,3 @@
+
+
+streamlit run "C:\Users\Anuruddha\Desktop\ML_projects\24.Multiple_Disease_System_Webapp\codes\saved_models\multiple_disease_prediction.py"
